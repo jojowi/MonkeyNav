@@ -21,7 +21,7 @@ import org.critterai.nmgen.SolidHeightfieldBuilder;
 
 /**
  *
- * @author jojow
+ * @author hololol2
  */
 public class GridMapGenerator {
 
